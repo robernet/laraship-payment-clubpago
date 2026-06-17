@@ -1,0 +1,7 @@
+1.5
+------------------------------
+Add Marketplace Support
+
+1.1
+Add platform to module.json for laraship installer
+------------------------------------

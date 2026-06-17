@@ -1,0 +1,18 @@
+{
+    "name": "corals/clubpago",
+    "description": "ClubPago Payment Gateway for Laraship",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "RPM",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Corals\\Modules\\Payment\\ClubPago\\": "src"
+        }
+    },
+    "require": {}
+}
