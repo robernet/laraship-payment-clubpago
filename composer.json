@@ -14,5 +14,12 @@
             "Corals\\Modules\\Payment\\ClubPago\\": "src"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Corals\\Modules\\Payment\\ClubPago\\ClubPagoServiceProvider"
+            ]
+        }
+    },
     "require": {}
 }
