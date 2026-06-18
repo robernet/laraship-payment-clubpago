@@ -1,5 +1,5 @@
 {
-    "name": "corals/clubpago",
+    "name": "robernet/clubpago",
     "description": "ClubPago Payment Gateway for Laraship",
     "type": "library",
     "license": "MIT",
